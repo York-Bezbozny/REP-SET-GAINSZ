@@ -1,0 +1,14 @@
+Bob Bobbins;male;69;180;18;12;16;17;13;14;14;Zenith Guardian
+Bill Bilbo;male;68;145;13;15;15;14;15;14;Nova Harbinger
+Jim Jimbo;male;67;190;10;11;15;11;18;15;Siege Titan
+Joe Jospeh;male;70;199;13;13;19;10;12;13;Zenith Guardian
+Sarah Bobera;female;60;100;14;16;19;13;9;15;Nova Harbinger
+Plain Jane;female;59;87;16;11;12;9;6;15;Oracle Sage
+John Smith;male;72;175;15;17;12;18;16;10;Zephyr Blade
+Emily Davis;female;64;125;18;19;11;14;13;17;Phantom Striker
+Michael Brown;male;68;160;16;13;14;15;12;19;Zenith Guardian
+Jessica Lee;female;63;118;19;18;10;16;11;12;Phantom Striker
+David Johnson;male;71;185;12;14;17;19;15;9;Siege Titan
+Olivia Wilson;female;65;130;17;15;13;18;10;16;Oracle Sage
+Daniel Taylor;male;69;170;14;16;18;12;19;11;Nova Harbinger
+Jerry Jackson;male;50;60;14;21;25;20;20;15;Zenith Guardian
